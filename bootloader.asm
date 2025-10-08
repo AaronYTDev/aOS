@@ -1,4 +1,4 @@
-; this code is holding the fabric of reality together. I don't care.
+; this code is holding the fabric of reality together.
 ```asm
 
 org 0x100
